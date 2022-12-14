@@ -8,7 +8,9 @@ Acknowledgement 🙏
 This project is designed to factorize as many numbers as possible into a product of two smaller numbers. It works perfectly for that except the case of bignums (numbers bigger than long long unsigned integers) please any contribution towards making this project works for bignums will be highly appreciated..
 
 ***Tasks 📃***
+
 **0. Factorize all the things!**
+
 Factorize as many numbers as possible into a product of two smaller numbers.
 
 	Usage: factors <file>
@@ -53,6 +55,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 	sys 0m0.001s
   
 **1. RSA Factoring Challenge**
+
 	RSA Laboratories states that: for each RSA number n, there exist prime numbers p and q such that
 
 	n = p × q. The problem is to find these two primes, given only n.
